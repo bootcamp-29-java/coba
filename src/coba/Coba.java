@@ -16,8 +16,7 @@ public class Coba {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Wahyu Kuncoro");
-        System.out.println("Menambah Sout");
+        System.out.println("Tofa");
     }
     
 }
