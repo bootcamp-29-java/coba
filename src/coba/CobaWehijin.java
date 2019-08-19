@@ -1,6 +1,6 @@
 package coba;
-public class Coba {
+public class CobaWehijin {
     public static void main(String[] args) {
-        System.out.println("Tofa");
+        System.out.println("Wehijin");
     }
 }
